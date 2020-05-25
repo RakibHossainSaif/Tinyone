@@ -131,16 +131,20 @@ header{
 	border-radius: 5px;
 }
 .fa-facebook:hover{
-	background-color: #4267B2 !important;
+	background-color: #4267B2;
+	transition: .4s;
 }
 .fa-twitter:hover{
 	background-color: skyblue;
+	transition: .4s;
 }
 .fa-google-plus-g:hover{
 	background-color: red;
+	transition: .4s;
 }
 .fa-pinterest:hover{
 	background-color: #AE2D28;
+	transition: .4s;
 }
 .m_r{
 	margin-right: 30px;

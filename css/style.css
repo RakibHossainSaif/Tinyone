@@ -1,0 +1,154 @@
+/* font-family: 'PT Sans', sans-serif; */
+@font-face{
+	font-family: HelveticaNeueBold.ttf;
+	src:url(../fonts/HelveticaNeueBold.ttf);
+}
+body{
+	font-family: 'PT Sans', sans-serif;
+	color: #010101;
+}
+/* header start */
+header{
+	background-color: #fcdb00;
+	padding: 15px 0;
+}
+.logo{}
+.menu ul li a{
+	font-weight: 700;
+	font-size: 22px;
+	color: #010101 !important;
+	text-transform: capitalize;
+	padding: 0 35px !important;
+	transition: .3s;
+}
+.menu ul li:last-child a{}
+.menu ul li:last-child a{
+	padding-right: 0 !important;
+}
+.menu ul li a:hover{
+	color: white !important;
+}
+/* header end */
+
+/* slider start */
+.slider{
+	background-color: #fcdb00;
+	padding: 0px 0px 70px 35px;
+}
+.ci{
+	position: absolute !important;
+	bottom: -65px;
+}
+.ci li{
+	width: 15px;
+	height: 15px;
+	border-radius: 50%;
+	color: white;
+}
+.s_text{
+	margin: 50px 0;
+}
+.s_text h1{
+	font-weight: 700;
+	font-size: 32px;
+	line-height: 80px;
+}
+.s_text h2{
+	font-size: 20px;
+	line-height: 25px;
+}
+.s_text p{
+	color: #555555;
+}
+.icon{
+	font-size: 50px;
+	letter-spacing: 15px;
+}
+/* slider end */
+
+/* features start */
+.features{
+	padding-top: 80px;
+	padding-bottom: 100px;
+}
+.title{}
+.t_h1{
+	font-weight: 700;
+	font-size: 32px;
+}
+.t_h2{
+	font-weight: 400;
+	font-size: 20px;
+	color: #313841;
+	line-height: 30px;
+	word-spacing: 1px;
+    letter-spacing: 1px;
+}
+.m_t_60{
+	margin-top: 60px;
+}
+.f_icon{
+	font-size: 50px;
+}
+.f_content{
+	margin-top: 8px;
+}
+.f_content h3{
+	font-weight: 400;
+	font-size: 22px;
+}
+.f_content p{
+	color: #898989;
+	letter-spacing: 1px;
+}
+/* features end */
+
+/* contact start */
+.contact{
+	background-color: #010101;
+	padding-top: 80px;
+	padding-bottom: 100px;
+}
+.yellow{
+	color: #fcdb00;
+}
+.ash{
+	color: #898989;
+}
+.form{
+	margin-top: 30px;
+}
+.btn_cus{
+	background-color: #fcdb00;
+}
+.s_link{
+	margin: 65px 0;
+}
+.ylw{
+	font-size: 42px;
+	color: black;
+	background-color: yellow;
+	border-radius: 5px;
+}
+.fa-facebook:hover{
+	background-color: #4267B2 !important;
+}
+.fa-twitter:hover{
+	background-color: skyblue;
+}
+.fa-google-plus-g:hover{
+	background-color: red;
+}
+.fa-pinterest:hover{
+	background-color: #AE2D28;
+}
+.m_r{
+	margin-right: 30px;
+}
+.support ul li{
+	color: #fff;
+}
+.support ul li a{
+	color: #fff;
+}
+	/* contact end */

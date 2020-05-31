@@ -107,7 +107,6 @@ header{
 .contact{
 	background-color: #010101;
 	padding-top: 80px;
-	padding-bottom: 100px;
 }
 .yellow{
 	color: #fcdb00;
@@ -132,22 +131,28 @@ header{
 }
 .fa-facebook:hover{
 	background-color: #4267B2;
-	transition: .4s;
+	transition: .5s;
 }
 .fa-twitter:hover{
 	background-color: skyblue;
-	transition: .4s;
+	transition: .5s;
 }
 .fa-google-plus-g:hover{
 	background-color: red;
-	transition: .4s;
+	transition: .5s;
 }
 .fa-pinterest:hover{
 	background-color: #AE2D28;
-	transition: .4s;
+	transition: .5s;
 }
 .m_r{
 	margin-right: 30px;
+}
+/* contact end */
+/* footer start */
+footer{
+	background-color: #010101;
+	padding-bottom: 100px;
 }
 .support ul li{
 	color: #fff;
@@ -155,4 +160,4 @@ header{
 .support ul li a{
 	color: #fff;
 }
-	/* contact end */
+/* footer end */

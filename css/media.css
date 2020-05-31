@@ -5,18 +5,27 @@
 	padding: 0 0!important;
 	text-align: right;
 }
+header {
+    padding: 15px 0 0;
+}
 /* header end */
 
 /* slider start */
+.slider {
+    padding: 0px 0px 10px 15px;
+}
 .icon {
     font-size: 45px;
     letter-spacing: 15px;
 }
-/* slider end */
-.s_text h1{
-	font-size: 25px;
-	line-height: 70px;
+.s_text h1 {
+    font-size: 25px;
+    line-height: 40px;
 }
+.ci {
+    bottom: -5px;
+}
+/* slider end */
 /* features start */
 .features{
 	padding-top: 50px;

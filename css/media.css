@@ -67,9 +67,11 @@ header {
     padding-top: 25px;
 }
 /* contact end */
-
+/* footer start */
+footer {
+    padding-bottom: 0px;
 }
-
+/* footer end */
 /* Small devices (landscape phones, 576px and up) */
 @media (min-width: 576px) and (max-width: 767.98px) {
 /* header start */

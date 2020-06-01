@@ -103,7 +103,7 @@ header{
 	color: #313841;
 	line-height: 30px;
 	word-spacing: 1px;
-    letter-spacing: 1px;
+        letter-spacing: 1px;
 }
 .m_t_60{
 	margin-top: 60px;
@@ -112,7 +112,7 @@ header{
 	background-color: #010101;
 	opacity: .7;
 	transition: .7s;
-	color: #fcdb00;
+	color: #ffffff;
 }
 .f_icon{
 	font-size: 50px;

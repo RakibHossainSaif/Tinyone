@@ -64,6 +64,27 @@ header{
 	font-size: 50px;
 	letter-spacing: 15px;
 }
+.fa-apple{
+	transition: .5s;
+}
+.fa-apple:hover{
+	transform: scale(.75);
+	color: white;
+}
+.fa-android{
+	transition: .5s;
+}
+.fa-android:hover{
+	transform: scale(.75);
+	color: white;
+}
+.fa-windows{
+	transition: .5s;
+}
+.fa-windows:hover{
+	transform: scale(.9);
+	color: white;
+}
 /* slider end */
 
 /* features start */
@@ -86,6 +107,12 @@ header{
 }
 .m_t_60{
 	margin-top: 60px;
+}
+.f_hover:hover{
+	background-color: #010101;
+	opacity: .7;
+	transition: .7s;
+	color: #fcdb00;
 }
 .f_icon{
 	font-size: 50px;
@@ -131,19 +158,19 @@ header{
 }
 .fa-facebook:hover{
 	background-color: #4267B2;
-	transition: .5s;
+	transition: .3s;
 }
 .fa-twitter:hover{
 	background-color: skyblue;
-	transition: .5s;
+	transition: .3s;
 }
 .fa-google-plus-g:hover{
 	background-color: red;
-	transition: .5s;
+	transition: .3s;
 }
 .fa-pinterest:hover{
 	background-color: #AE2D28;
-	transition: .5s;
+	transition: .3s;
 }
 .m_r{
 	margin-right: 30px;

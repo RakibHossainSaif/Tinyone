@@ -55,7 +55,10 @@
 
 /* contact start */
 .ylw{
-	font-size: 31px;
+	font-size: 32px;
+}
+.m_r{
+	margin-right: 20px;
 }
 .btn_cus{
 	margin-top: 10px;

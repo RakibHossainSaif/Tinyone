@@ -8,6 +8,9 @@
 /* header end */
 
 /* slider start */
+.slider{
+	padding-bottom: 0;
+}
 .icon {
     font-size: 32px;
     letter-spacing: 10px;
@@ -68,9 +71,6 @@
 }
 /* contact end */
 /* footer start */
-footer {
-    padding-bottom: 0px;
-}
 /* footer end */
 }
 /* Small devices (landscape phones, 576px and up) */
@@ -103,7 +103,9 @@ footer {
     letter-spacing: 0px;
 }
 /* features end */
-
+.btn_cus{
+	margin-top: 10px;
+}
 }
 
 /* Medium devices (tablets, 768px and up) */
@@ -125,6 +127,9 @@ footer {
     letter-spacing: 0px;
 }
 /* features end */
+.btn_cus{
+	margin-top: 10px;
+}
 }
 
 /* Large devices (desktops, 992px and up) */
